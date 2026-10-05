@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auto Mail Bot</string>
+    <string name="accessibility_desc">Automatic Email &amp; OTP input assistant for registration.</string>
+</resources>
